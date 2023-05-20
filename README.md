@@ -1,0 +1,2 @@
+# C-auto
+auto C+
